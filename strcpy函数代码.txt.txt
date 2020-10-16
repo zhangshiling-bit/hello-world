@@ -12,5 +12,10 @@ char* StrCpy(char* src)
 	return *p;
 }
 /**
+<<<<<<< HEAD
 本地编辑
 **/
+=======
+远程edit
+**/
+>>>>>>> 36c49790eb006cfa1eab6e0e6b231f387dfe7037
